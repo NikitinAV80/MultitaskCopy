@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultitaskCopyLib", "MultitaskCopyLib\MultitaskCopyLib.csproj", "{57FAD93E-87BF-417D-AF84-B3244C7E7F66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultitaskCopy.Test", "MultitaskCopy.Test\MultitaskCopy.Test.csproj", "{C3D0D162-DC91-4AD9-B0F4-43A40DA6B013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FAD93E-87BF-417D-AF84-B3244C7E7F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FAD93E-87BF-417D-AF84-B3244C7E7F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FAD93E-87BF-417D-AF84-B3244C7E7F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FAD93E-87BF-417D-AF84-B3244C7E7F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D0D162-DC91-4AD9-B0F4-43A40DA6B013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D0D162-DC91-4AD9-B0F4-43A40DA6B013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D0D162-DC91-4AD9-B0F4-43A40DA6B013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D0D162-DC91-4AD9-B0F4-43A40DA6B013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
